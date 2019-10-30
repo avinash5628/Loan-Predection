@@ -1,1 +1,1 @@
-# Loan-Predection
+# loan predection
